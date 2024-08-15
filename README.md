@@ -25,6 +25,7 @@
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush6394&show_icons=true&locale=en" alt="piyush6394" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush6394&" alt="piyush6394" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush6394&show_icons=true&locale=en&layout=compact" alt="piyush6394" /></p>
 </div>
 <br>
 <p align="center">Thank You for visiting my Profile ☺️</p>
